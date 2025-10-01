@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Café",
+    "precio": 800,
+    "categoria_id": 2
+  },
+  {
+    "id": 2,
+    "nombre": "Notebook",
+    "precio": 350000,
+    "categoria_id": 1
+  },
+  {
+    "id": 3,
+    "nombre": "Auriculares",
+    "precio": 15000,
+    "categoria_id": 1
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "descripcion": "Electrónica",
+    "esImportada": true
+  },
+  {
+    "id": 2,
+    "descripcion": "Alimentos",
+    "esImportada": false
+  }
+]
